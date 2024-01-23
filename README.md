@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kayan Gemignani</h1>
 <h3 align="center">🚀Computer Science Student | Actively Seeking Opportunities in Software Development</h3>
+
 <p allign="left">Greetings! 👋 I am a passionate and dedicated Computer Science student currently in my 4th semester.</p>
+
 <p allign="left">🌐 <b>Language Proficiency:</b><br>
 <b>English:</b> Advanced<br>
 <b>Spanish:</b> Upper Intermediate<br>
 <b>Portuguese:</b> Native<br>
 <b>German:</b> Currently Studying</p>
-<p allign="left">Human Resources Background:
-In addition to my computer science studies, I have a robust background in human resources, having both worked and studied extensively in the field. This experience has honed my interpersonal and communication skills, allowing me to collaborate effectively with diverse teams and stakeholders.
 
-I am eager to connect with professionals in the tech community. If you are looking for a motivated and adaptable team player with a strong foundation in computer science, let's connect! I am open to discussions on internships, entry-level positions, and collaborative projects.</p>
+<p allign="left">With a background in HR, I view coding not just as a technical pursuit but as a powerful fusion of technology and people. Additionally, I'm a skilled photographer and photo and video edition enthusiast.<br>
+Quick to learn and driven by curiosity. Committed to continuous learning, I invite you to connect and explore the limitless possibilities at the intersection of coding and creativity. Always feel free to contact me!!🚀</p>
 
-<b></b>
-<p></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kayan-gemignani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kayan gemignani" height="30" width="40" /></a>

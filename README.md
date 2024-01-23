@@ -1,5 +1,4 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Kayan Gemignani</h1>
 <h3 align="center">🚀Computer Science Student | Actively Seeking Opportunities in Software Development</h3>
 
 <h4 allign="left">Greetings! 👋 I am a passionate and dedicated Computer Science student currently in my 4th semester.</h4>

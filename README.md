@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Kayan Gemignani</h1>
 <h3 align="center">🚀Computer Science Student | Actively Seeking Opportunities in Software Development</h3>
 
-<p allign="left">Greetings! 👋 I am a passionate and dedicated Computer Science student currently in my 4th semester.</p>
+<h4 allign="left">Greetings! 👋 I am a passionate and dedicated Computer Science student currently in my 4th semester.</h4>
+
+<p allign="left">With a background in HR, I view coding not just as a technical pursuit but as a powerful fusion of technology and people. Additionally, I'm a skilled photographer and photo and video edition enthusiast.<br>
+Quick to learn and driven by curiosity. Committed to continuous learning, I invite you to connect and explore the limitless possibilities at the intersection of coding and creativity. Always feel free to contact me!!🚀</p>
 
 <p allign="left">🌐 <b>Language Proficiency:</b><br>
 <b>English:</b> Advanced<br>
 <b>Spanish:</b> Upper Intermediate<br>
 <b>Portuguese:</b> Native<br>
 <b>German:</b> Currently Studying</p>
-
-<p allign="left">With a background in HR, I view coding not just as a technical pursuit but as a powerful fusion of technology and people. Additionally, I'm a skilled photographer and photo and video edition enthusiast.<br>
-Quick to learn and driven by curiosity. Committed to continuous learning, I invite you to connect and explore the limitless possibilities at the intersection of coding and creativity. Always feel free to contact me!!🚀</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
